@@ -1,0 +1,31 @@
+  # Preparando o Ambiente
+
+ *installar o node versão lts
+ - Node -v ==verificação de instalação do node
+ -npm -v ==verificação de instalação do npm 
+
+ *Yarn 
+ -npm install -g yarn == instalar o yarn 
+
+ *Hyper Terminal ( Dica de Terminal semelhante ao Linux )
+
+ *Criando o projeto react
+ -- npx create-react-app (nome da aplicação)
+
+ *Para utilizar recebimento de apis
+ --npm install axios  
+
+ *Para criação de rotas 
+ -npm install react-router-dom
+
+  2 opções para estilização: CSS / Styled-component
+ *Para estilização de componentes   
+ -npm install styled-components
+
+  *api Github
+  -api.github.com/users/nome do usuario
+
+
+
+ 
+
